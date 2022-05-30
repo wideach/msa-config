@@ -1,9 +1,9 @@
-spring:
-  datasource:
-    driver: com.mysql.jdbc.Driver
-    url: http://testdb.com
-    username: test2
-    password: test23
+#spring:
+#  datasource:
+#    driver: com.mysql.jdbc.Driver
+#    url: http://testdb.com
+#    username: test2
+#    password: test23
 
 default:
   message: test profiles 에서 사용할 설정 정보들
