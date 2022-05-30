@@ -13,4 +13,4 @@ default:
   
 jwt:
     token:
-        key: my_token_secret_key
+        key: "{cipher}8fe09399c96cdc1bee0cc3dafea404335a5bdd879e4cd85547fd1e7fbe774e11b3adc2c20634d16501be77987bbc210f"
