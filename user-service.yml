@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver: com.h2.Driver
-    url: dbUrl
+    url: http://new-db-url.com
     username: admin
     password: admin
 
