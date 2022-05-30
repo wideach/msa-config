@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver: com.mysql.jdbc.Driver
-    url: dbUrl
+    url: http://db.com
     username: test
     password: test
 
