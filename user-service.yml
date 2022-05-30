@@ -1,9 +1,9 @@
-spring:
-  datasource:
-    driver: com.h2.Driver
-    url: http://new-db-url.com
-    username: admin
-    password: admin
+#spring:
+#  datasource:
+#    driver: com.h2.Driver
+#    url: http://new-db-url.com
+#    username: admin
+#    password: admin
 
 #token:
 #  key: my_token_secret_key
