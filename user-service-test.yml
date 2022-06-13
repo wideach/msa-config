@@ -6,4 +6,4 @@
 #    password: test23
 
 default:
-  message: test profiles 에서 사용할 설정 정보들
+  message: test profiles 에서 사용할 설정 정보들, RabbitMQ
